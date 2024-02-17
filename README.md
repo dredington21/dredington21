@@ -1,5 +1,5 @@
 - 👋 Hi, my name is Daniel Redington
-- 👀 I’m interested in App, Software, and Game development
+- 👀 I’m interested in App, Software, and Game development as well as data analysis and management
 - 🌱 I’m currently learning Computer Science at the University of South Florida
 - 📫 How to reach me at daniel.redington@yahoo.com
 
