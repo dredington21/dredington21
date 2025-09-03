@@ -1,6 +1,6 @@
 - 👋 Hi, my name is Daniel Redington
 - 👀 I’m interested in App, Software, and Game development as well as data analysis and management
-- 🌱 I’m currently learning Computer Science at the University of South Florida
+- 🌱 I graduated in may of 2025 at the University of South Florida with a Bachelors in Computer Science
 - 📫 How to reach me at daniel.redington@yahoo.com
 
 <!---
