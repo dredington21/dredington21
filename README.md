@@ -1,5 +1,5 @@
 - 👋 Hi, my name is Daniel Redington
-- 👀 I’m interested in App, Software, and Game development as well as data analysis and management
+- 👀 I’m currently looking for careers related to Data Science as well as Softwar Engineering
 - 🌱 I graduated in may of 2025 at the University of South Florida with a Bachelors in Computer Science
 - 📫 Reach me at daniel.redington@yahoo.com
 
