@@ -1,4 +1,4 @@
-# Hi, I'm Daniel Redington 👋
+# Hi, I'm Daniel Wesbecher 👋
 
 - 👀 I’m currently seeking opportunities in **Data Science** and **Software Engineering**.  
 - 🌱 I graduated in **May 2025** from the University of South Florida with a **Bachelor’s in Computer Science**.  
